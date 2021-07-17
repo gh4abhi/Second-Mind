@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CG Test.unity
+    guid: 6327c4d5ee7f9ec488e2d3bb6db04eb2
+  - enabled: 1
+    path: Assets/Scenes/Oximeter.unity
+    guid: e00cfa6ddc393cd43bd831b0ac38258d
+  - enabled: 1
+    path: Assets/Scenes/Prone.unity
+    guid: 318329510fcfe0947b03a2270edaf462
+  - enabled: 1
+    path: Assets/Scenes/Vaccination.unity
+    guid: aa8a1faf020ae094bbce910687c4e0c9
+  - enabled: 1
+    path: Assets/Scenes/Health.unity
+    guid: a1e352ed3383fbe488847ad2018a811c
+  - enabled: 1
+    path: Assets/Scenes/Mask.unity
+    guid: 3fecd3d5e42a36248ac55affdd68b2bb
+  - enabled: 1
+    path: Assets/Scenes/Covi Guide.unity
+    guid: 484470b44c763ad459423421411eb9f6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 5a515967142a3624a8511589358fb426,
+      type: 2}
